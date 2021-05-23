@@ -1,0 +1,25 @@
+
+.bbk_backgrond {
+    background: darkred;
+
+}
+
+.head {
+    font-size: 50px;
+    color: white;
+}
+
+.head_1 {
+    font-size: 50px;
+    color: #002752;
+    text-align: center;
+}
+
+.breadcrumb {
+    font-size: 15px;
+    text-align: end;
+}
+
+.serif {
+  font-family: 'Cookie', cursive;
+}
